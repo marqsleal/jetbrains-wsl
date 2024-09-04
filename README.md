@@ -65,7 +65,7 @@ cd jetbrains-toolbox-2.4.2.32922/
 
 ## 5. Executando o Toolbox
 
-O **Toolbox** será aberto via _Nautilus_ (explorador do Ubuntu). Siga as instruções na interface gráfica (abrir, continuar, aceitar licença, escolher tema). A interface de instalação das IDEs estará disponível. É recomendável instalar a **Community Edition** caso você não tenha a licença da versão Ultimate.
+O **Toolbox** será aberto via _Nautilus_ (explorador do Ubuntu). Siga as instruções na interface gráfica (abrir, continuar, aceitar licença, escolher tema). A interface de instalação das IDEs estará disponível. É recomendável instalar as IDEs na versão **Community Edition** caso você não tenha a licença da versão Ultimate.
 
 ## 6. Criando Atalhos para Executar as IDEs no Windows
 
